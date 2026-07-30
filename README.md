@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
+- [greedy](#greedy) (1)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 
@@ -24,6 +25,12 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 
 ### math
 
